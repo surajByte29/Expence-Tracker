@@ -1,4 +1,4 @@
-# 💰 Personal Expense Tracker
+Personal Expense Tracker
 
 A simple, responsive expense tracker built with HTML, CSS and JavaScript.
 
